@@ -14,8 +14,8 @@
 <details>
     <summary>🔥 GitHub Stats</summary>
     <br>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robinbuezo11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="robinbuezo11" /></p>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=robinbuezo11&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" alt="robinbuezo11" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robinbuezo11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="robinbuezo11"/></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=robinbuezo11&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" alt="robinbuezo11"/></p>
 </details>
 <details>
     <summary>🔥 About Me</summary>
