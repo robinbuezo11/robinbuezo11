@@ -20,11 +20,13 @@
 </details>
 <details>
     <summary>🔥 About Me</summary>
-
+    <br>
+    <p>
     I am a science and systems engineering student, passionate about computing and engineering fields in general, always in constant learning, with the ability to analyze and search for new ideas.
-
+    </p>
+    <p>
     I am a very active person and very easy to learn, with good personal relationships and very dedicated to my work and obligations. In the workplace I always try to contribute my ideas and put my knowledge into practice to resolve obstacles, thus obtaining the drive and desire to continue expanding my professional knowledge more and more.
-
+</p>
 </details>
 
 ---
