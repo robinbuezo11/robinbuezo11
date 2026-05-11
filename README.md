@@ -38,13 +38,6 @@
 
 ---
 
-### Here you can find my CV
-
-- EN - **https://robinbuezo11.github.io/cv_en**
-- ES - **https://robinbuezo11.github.io/**
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
