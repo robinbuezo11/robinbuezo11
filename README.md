@@ -4,6 +4,10 @@
 Software Engineer | Technical Leader | Full Stack Development | Cloud, DevOps & AI
 </h3>
 
+<p align="center">
+Passionate about building scalable solutions, cloud infrastructure, automation, and enterprise applications.
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -12,7 +16,7 @@ Systems Engineer currently in the graduation process, with over 5 years of exper
 
 Currently leading the Applications Unit at EMPAGUA, focused on enterprise solutions, process automation, Full Stack development, DevOps practices, and scalable cloud-oriented architectures.
 
-Passionate about technology, innovation, cloud infrastructure, automation, and building efficient solutions that create real organizational impact.
+Focused on continuous improvement, technological innovation, and building efficient solutions that create real organizational impact.
 
 ---
 
@@ -30,7 +34,7 @@ Passionate about technology, innovation, cloud infrastructure, automation, and b
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" />
 </p>
 
 ### Cloud & DevOps
@@ -40,17 +44,21 @@ Passionate about technology, innovation, cloud infrastructure, automation, and b
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Summary
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=robinbuezo11&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robinbuezo11&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robinbuezo11&theme=tokyonight"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinbuezo11&layout=compact&theme=tokyonight" 
-    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robinbuezo11&theme=tokyonight"
   />
 </p>
 
@@ -58,7 +66,7 @@ Passionate about technology, innovation, cloud infrastructure, automation, and b
 
 ## 🌎 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/robinbuezo/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
